@@ -1,0 +1,32 @@
+
+.box{
+    background-color: black;
+    color:goldenrod;
+    width: 300px;
+
+}
+body
+{
+    background-color: goldenrod;
+    
+}
+
+.nav 
+{
+    float: right;
+
+}
+.nav ol li
+{
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+}
+.top
+{
+    
+    background-image: url(https://img.freepik.com/premium-photo/top-view-wood-office-desk-table-flat-lay-workspace_35380-2854.jpg?w=2000);
+    width: 100%;
+    background-size: cover;
+    height: 500px;
+}

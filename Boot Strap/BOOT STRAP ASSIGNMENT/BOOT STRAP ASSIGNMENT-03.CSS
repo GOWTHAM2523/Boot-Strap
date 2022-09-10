@@ -1,0 +1,26 @@
+body{
+    background-color: goldenrod;
+}
+
+.image1{
+    height: 50px;
+    width: 100px;
+}
+
+.button1
+{
+    margin-left : 80px;;
+    /* margin-right: auto; */
+}
+.box3
+{
+    background-image: url(https://concept3d.com/wp-content/uploads/2020/03/AdobeStock_214337983-scaled-1.jpeg);
+    margin-top: 50px;
+}
+.button2
+{
+    margin-left: 250px;
+    width: 500px;
+    border: none;
+    opacity: 0.8;
+}

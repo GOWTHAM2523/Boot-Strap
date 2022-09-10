@@ -1,0 +1,106 @@
+.bgcontainer
+{
+    background-image: url(http://www.speedcarwash.com/blog/wp-content/uploads/2020/03/general-car-care.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.card1
+{
+    padding: 10px;
+    color:black;
+    background-image: url(https://carcareclinic.co.za/wp-content/uploads/2022/01/car.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: white;
+}
+.hp{
+    margin-left: 500px;
+    text-align: justify;
+}
+button{
+    border-radius: 10px;
+}
+
+
+.nbg-Container
+{
+    background-image: url(https://carcareclinic.co.za/wp-content/uploads/2022/01/car.png);
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hcard1
+{
+    padding: 10px;
+    color:black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* background-color: white; */
+    border: 5px solid black ;
+    border-radius: 10px;
+    text-align: justify;
+    margin: 10px;
+    margin-top: 40px;
+    
+}
+
+.himg{
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+}
+/* /* .hcard2
+{
+    padding: 10px;
+    color:black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: white;
+    border: 5px solid black ;
+    border-radius: 10px;
+    text-align: justify;
+    margin: 10px;
+} */
+
+/* .himg{
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+} */
+
+.hcard1:hover{
+    background-color: white;
+    border: red;
+    transition: 0.8s;
+}
+
+
+.lbg-container{
+    background-image: url(https://i.insider.com/5afb25dae3186e2b008b4c29?width=1000&format=jpeg&auto=webp);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    padding: 25px;
+}
+/* #slidenew
+{
+    height: 200px;
+    width: 500px;
+} */
+
+.lcard{
+    
+    border: none;
+    margin: 0Px;
+}
+.limg
+{
+    height: 500px;
+    width: 300px;
+}
